@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>我的第一篇博客文章</title>
-      <link href="/2023/05/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/05/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+      <title>Hello YaBo</title>
+      <link href="/2023/05/15/hello-YaBo/"/>
+      <url>/2023/05/15/hello-YaBo/</url>
       
-        <content type="html"><![CDATA[<h2 id="心酸"><a href="#心酸" class="headerlink" title="心酸"></a>心酸</h2><p> 这是我的第一篇博客文章，捣鼓了好几天，快崩溃了！！！</p><hr><h2 id="此刻心情"><a href="#此刻心情" class="headerlink" title="此刻心情"></a>此刻心情</h2><p> 终于成功了，很有成就感，很开心！！！</p><hr><p><a href="http://www.yaboplus.me/">www.yaboplus.me</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="欢迎进入我的博客"><a href="#欢迎进入我的博客" class="headerlink" title="欢迎进入我的博客"></a>欢迎进入我的博客</h2><h3 id="此刻心情"><a href="#此刻心情" class="headerlink" title="此刻心情"></a>此刻心情</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ 这是我的第一篇博客，很开心！！！</span><br></pre></td></tr></table></figure><p>More info: <a href="https://yaboplus.me/">YaBo</a></p><h3 id="心酸"><a href="#心酸" class="headerlink" title="心酸"></a>心酸</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ 捣鼓了好几天终于完成了！！！</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
