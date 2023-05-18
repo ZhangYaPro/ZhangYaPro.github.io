@@ -8,6 +8,7 @@
     /* ���´�����ɫ͸����Ϊ0.3 */
     background: rgba(255,255,255,0);
 }
+
 @keyframes gradientBG {
     0% {
         background-position: 0% 50%;
